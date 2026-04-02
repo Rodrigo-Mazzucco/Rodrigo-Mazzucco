@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Rodrigo Mazzucco</h1>
+<h1 align="center">Olá, eu sou o Rodrigo Mazzucco</h1>
 
 <p align="center">
   <strong>Estudante de Desenvolvimento de Software Multiplataforma (Fatec Cotia) | Técnico em Desenvolvimento de Sistemas (ETEC)</strong>
@@ -12,7 +12,7 @@
 
 <br>
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou um desenvolvedor focado em **Backend e Banco de Dados**, apaixonado por criar arquiteturas sólidas e eficientes. Trago um forte rigor analítico e lógico para a resolução de problemas, o que me permite projetar sistemas bem estruturados desde a base.
 
@@ -22,7 +22,7 @@ Meu foco principal de atuação e estudo envolve:
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **Linguagens & Backend:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +40,7 @@ Meu foco principal de atuação e estudo envolve:
 
 ---
 
-## 🏆 Projetos em Destaque
+## Projetos em Destaque
 
 *(Esta seção será atualizada em breve, conforme novos projetos forem lapidados e publicados.)*
 
@@ -49,7 +49,7 @@ Meu foco principal de atuação e estudo envolve:
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Mazzucco&show_icons=true&theme=tokyonight&hide_border=true" />
