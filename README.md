@@ -42,10 +42,14 @@ Meu foco principal de atuação e estudo envolve:
 
 ## Projetos em Destaque
 
-*(Esta seção será atualizada em breve, conforme novos projetos forem lapidados e publicados.)*
+**[RecyTech — Front Web](https://github.com/OtavioMR/RecyTechWeb)** — Colaborador
+Projeto Integrador da FATEC Cotia (DSM). Plataforma web para gerenciamento de coleta de resíduos recicláveis. Responsável pelo desenvolvimento das principais páginas do fluxo do Cidadão (`tipos_lixo`, `coleta`, `conta`, `solicitar_coleta`, `quantidade`) e pela estilização CSS com foco em responsividade.
+**Stack:** TypeScript, React (TSX), CSS
 
-- **[Projeto Placeholder 1]** — Uma breve descrição do problema lógico resolvido e das tecnologias aplicadas.
-- **[Projeto Placeholder 2]** — Outro exemplo de aplicação backend ou estruturação de dados.
+**[Student Task Manager](https://github.com/Rodrigo-Mazzucco/student-task-manager-java)** — Projeto solo em evolução contínua
+Sistema de gerenciamento de tarefas acadêmicas desenvolvido em Java, com arquitetura MVC construída incrementalmente semana a semana. Implementa conceitos de POO, estruturas de dados, camada de repositório, regras de negócio, padrão Strategy e Factory.
+**Status:** Semana 6/8 concluída — Padrão Strategy implementado.
+**Stack:** Java, JUnit, MVC, Strategy, Factory
 
 ---
 
