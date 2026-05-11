@@ -55,13 +55,20 @@ Sistema de gerenciamento de tarefas acadêmicas desenvolvido em Java, com arquit
 
 ## Estatísticas
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Mazzucco&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Mazzucco&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <a href="https://github.com/Rodrigo-Mazzucco">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigo-Mazzucco&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Rodrigo-Mazzucco">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrigo-Mazzucco&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rodrigo-Mazzucco&theme=tokyonight&hide_border=true" />
-</div>
+<a> 
+    <a href="https://github.com/Rodrigo-Mazzucco"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rodrigo-Mazzucco&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Rodrigo-Mazzucco"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Mazzucco&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
